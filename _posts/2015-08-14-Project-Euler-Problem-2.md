@@ -21,12 +21,19 @@ date: 2015-08-14
 Is there a way to find out only even Fibonacci numbers?
 
 First, let’s check the parity of Fibonacci numbers.
+
 F1 = 1 (odd)
+
 F2 = 1 (odd)
+
 F3 = 1 + 1 = 2 (odd + odd = even)
+
 F4 = 1 + 2 = 3 (odd + even= odd)
+
 F5 = 2 + 3 = 5 (even + odd = odd)
+
 F6 = 3 + 5 = 8 ( odd + odd = even)
+
 …
 
 Note that at F5, two consecutive numbers are odd, which is the same pattern in the beginning. So the odd-odd-even pattern will continue on and on.
