@@ -22,7 +22,7 @@ Is there a way to find out only even Fibonacci numbers?
 
 First, let’s check the parity of Fibonacci numbers.
 
-$$F1 = 1 (odd)$$
+$$F_1 = 1$$ (odd)
 
 F2 = 1 (odd)
 
