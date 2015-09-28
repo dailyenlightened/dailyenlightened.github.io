@@ -13,4 +13,7 @@ title: Project Euler Problem 1: Multiples of 3 and 5
 
 This is a fairly straight-forward problem. In python, you can obtain the answer by a single line of code using list comprehension:
 
-<script src="https://gist.github.com/dailyenlightened/906a9bb4e06bc753d10e.js"></script>
+```python
+print(sum([n for n in range(1, 1000) \
+           if any(n % factor == 0 for factor in (3, 5))]))
+```
