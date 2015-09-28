@@ -4,13 +4,13 @@ title: Project Euler Problem 1 - Multiples of 3 and 5
 date: 2013-10-22
 ---
 
-### **[Project Euler Problem 1: Multiples of 3 and 5](https://projecteuler.net/problem=1)**
+#### **[Project Euler Problem 1: Multiples of 3 and 5](https://projecteuler.net/problem=1)**
 > **Problem Description**
 > 
 > If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 > Find the sum of all the multiples of 3 or 5 below 1000.
 
-**Approach**
+#### **Approach**
 
 This is a fairly straight-forward problem. In python, you can obtain the answer by a single line of code using list comprehension:
 
@@ -21,7 +21,7 @@ print(sum([n for n in range(1, 1000) \
 
 This is basically a direct translation of the problem: pick numbers from 1 to 1000 (non-inclusive) which are divisible by either 3 or 5, and sum them up. One possible pitfall here is that the range is below 1000: 1000 is not included in the range. Coincidentally, range(1, 1000) in Python stops at below 1000.
 
-**Code**
+#### **Code**
 
 For a bit of generalization, the code can be expanded to accept a set of factors rather than 3 and 5:
 
