@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Euler Problem 2: Even Fibonacci numbers 
+title: Project Euler Problem 2 
 date: 2015-08-14
 ---
 
