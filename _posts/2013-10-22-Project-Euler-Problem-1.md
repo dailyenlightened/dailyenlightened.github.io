@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Euler Problem 1: Multiples of 3 and 5
+title: Project Euler Problem 1 - Multiples of 3 and 5
 date: 2013-10-22
 ---
 
