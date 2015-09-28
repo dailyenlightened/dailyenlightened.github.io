@@ -20,7 +20,7 @@ print(sum([n for n in range(1, 1000) \
            if any(n % factor == 0 for factor in (3, 5))]))
 ```
 
-This is basically a direct translation of the problem: pick numbers from 1 to 1000 (non-inclusive) which are divisible by either 3 or 5, and sum them up. One possible pitfall here is that the range is below 1000: 1000 is not included in the range. Coincidentally, range(1, 1000) in Python stops at below 1000.
+This is basically a direct translation of the problem: pick numbers from 1 to 1000 (non-inclusive) which are divisible by either 3 or 5, and sum them up. One possible pitfall here is that 1000 is not to be included in the range. Incidentally, `range(1, 1000)` in Python stops just before 1000, so no need to change the code.
 
 #### **Code**
 
