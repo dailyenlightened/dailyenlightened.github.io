@@ -24,6 +24,8 @@ First, let’s check the parity of Fibonacci numbers.
 
 {% latex %} F_1 = 1 {% endlatex %} (odd)
 
+{% latex %} Sigma_n=1^10 n^2 = n^4 {% endlatex %}
+
 F2 = 1 (odd)
 
 F3 = 1 + 1 = 2 (odd + odd = even)
