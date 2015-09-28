@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+An intellectual nomad.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+An engineer in a global mechanical component manufacturer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+dailyenlightened AT gmail DOT com
