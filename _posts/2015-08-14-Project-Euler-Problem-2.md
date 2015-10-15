@@ -26,9 +26,9 @@ First, let’s check the parity of Fibonacci numbers.
 
 $$\Sigma_n=1^10 n^2 = n^4$$
 
-F2 = 1 (odd)
+$F2 = 1$ (odd)
 
-F3 = 1 + 1 = 2 (odd + odd = even)
+`$F3 = 1 + 1 = 2$` (odd + odd = even)
 
 F4 = 1 + 2 = 3 (odd + even= odd)
 
