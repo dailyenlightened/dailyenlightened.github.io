@@ -24,7 +24,7 @@ First, let’s check the parity of Fibonacci numbers.
 
 $F_1 = 1$ (odd)
 
-$$Sigma_n=1^10 n^2 = n^4$$
+$$\Sigma_n=1^10 n^2 = n^4$$
 
 F2 = 1 (odd)
 
