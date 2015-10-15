@@ -22,9 +22,9 @@ Is there a way to find out only even Fibonacci numbers?
 
 First, let’s check the parity of Fibonacci numbers.
 
-{% latex %} F_1 = 1 {% endlatex %} (odd)
+$$F_1 = 1$$ (odd)
 
-{% latex %} Sigma_n=1^10 n^2 = n^4 {% endlatex %}
+$$Sigma_n=1^10 n^2 = n^4$$
 
 F2 = 1 (odd)
 
