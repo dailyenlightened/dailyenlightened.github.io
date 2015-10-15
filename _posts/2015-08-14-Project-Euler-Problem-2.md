@@ -22,7 +22,7 @@ Is there a way to find out only even Fibonacci numbers?
 
 First, let’s check the parity of Fibonacci numbers.
 
-$F_1 = 1$ (odd)
+\(F_1 = 1\) (odd)
 
 $$\Sigma_n=1^10 n^2 = n^4$$
 
